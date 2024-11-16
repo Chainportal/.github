@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/chainportal.jpg" alt="ChainPortal Banner" width="100%"/>
+  <img src="./assets/chainportal.jpg" alt="ChainPortal Banner" width="50%"/>
 </p>
 
 <h1 align="center">ChainPortal</h1>
-<p align="center">Your Gateway to Web3 Gaming 🎮</p>
+<p align="center">Gaming Authentication, Simplified 🎮</p>
 
 <p align="center">
   <a href="https://discord.gg/chainportal">
